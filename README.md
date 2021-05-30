@@ -4,4 +4,8 @@ digitalocean: This spoofs to digitalocean ips.
 100up: This completely bypasses 100up firewall but if they have a dualip kill all then you would have to hit both of their ips.
 fivem: This will basicly connect to the fivem server draining its bandwidth you need alot of power for this tho.
 voxility: Use port 9874 and you can slam any voxility server.
+
+
+
+
 REQUIREMENTS: You need a spoofed server ofc.
